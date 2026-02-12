@@ -14,12 +14,11 @@
 
 ## About Me:
 
-- I am a student.
+- I'm a student.
 - Currently learning C#.
 - Learning HTML & CSS.
 - Recently started learning JavaScript.
 - Exploring how the web works.
-- Improving my logic building skills.
 - Focused on becoming a full stack developer.
 - Learning step by step and staying consistent.
 - Passionate about technology and software development.
@@ -35,7 +34,7 @@
 ### Frontend  
 <a href="https://github.com/karelpilouoficialni">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,js,&perline=3" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
@@ -43,32 +42,32 @@
 ### Languages
 <a href="https://github.com/karelpilouoficialni">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=cs,&perline=1" /> 
 </div>
 </a>
-
-</td><td valign="top" width="25%">
+ </td><td valign="top" width="25%">
   
 ### Others
 <a href="https://github.com/karelpilouoficialni">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=rider,visualstudio,vscode,mint,windows,apple,&perline=3" /> 
 </div>
 </a>
-</td>
+ </td><td valign="top" width="25%">
+
+### Apps
+<a href="https://github.com/karelpilouoficialni">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=discord,gmail,instagram,linkedin,twitter,github,obsidian,replit,ps&perline=3" /> 
+</div>
+</a>
 </tr></table>
 
 
-## Connect with me:
-<div align="center">
-    <a href="www.linkedin.com/in/kajapila" target="_blank"><img src="https://img.shields.io/badge/-Jan%20Krb%C3%A1lek-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:slaymeplease.business@gmail.com"><img src="https://img.shields.io/badge/-slaymeplease.business@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</div>
 
  ## Github Stats:
 <p align="center">
     <a href="https://github.com/karelpilouoficialni">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karelpilouoficialni&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karelpilouoficialni&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
@@ -89,11 +88,7 @@
 <br>
 
 <div id="header" align="center">
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karelpilouoficialni" alt="karelpilouoficialni" /></a> </p>
-  
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+    
   <img src="https://komarev.com/ghpvc/?username=karelpilouoficialni&style=for-the-badge&color=orange" alt=""/>
 </div>
 
