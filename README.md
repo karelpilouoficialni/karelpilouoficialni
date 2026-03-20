@@ -14,18 +14,15 @@
 
 ## About Me:
 
-- I'm a student.
-- Currently learning C#.
-- Learning HTML & CSS.
-- Recently started learning JavaScript.
-- Exploring how the web works.
-- Focused on becoming a full stack developer.
-- Learning step by step and staying consistent.
-- Passionate about technology and software development.
-- Open to collaboration and learning from others.
-- Working on strengthening my fundamentals.
-- Always trying to improve a little every day.
-- Hopefully soon to be a White Hat <3
+- 🎓 Student learning C#
+- 🌐 Building foundations in HTML & CSS
+- ⚡ Currently learning JavaScript
+- 🧠 Focused on understanding how the web works
+- 🛠️ Working toward full-stack development
+- 🤝 Open to collaboration and learning opportunities
+- 💻 Passionate about technology and software development
+- 🎯 Consistently improving every day
+- 🔐 Aspiring white hat security enthusiast
 
 ## Skill Set:
 
